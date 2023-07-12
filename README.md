@@ -1,2 +1,6 @@
 # Sistema-Bibliotecario
-Este projeto é um sistema de empréstimos de livros e controle bibliotecario criado usando um bootstrap para a estética e PHP no back-end para criação das funções do web-site.
+<h1 align="center"> Descrição do projeto </h1>
+ Este projeto tem como intuito realizar o controle de livros em uma biblioteca, tal como também a realização de empréstimos localmente no estabelecimento onde o responsável realiza o empréstimo, como também de forma online pelo usuário no sistema.
+
+<h1 align="center"> Funcionalidades </h1>
+  Como um 
