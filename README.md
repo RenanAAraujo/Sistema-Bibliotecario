@@ -4,6 +4,6 @@
 
 <h1 align="center"> Funcionalidades </h1>
   Como um projeto feito com o objetivo de atender uma biblioteca ou acervo de livros, se detem de diversas funcionalidades como:
-  <li>Login: Tanto o administrador quanto o usuario podem fazer login no sistema, usando nome e senha;</li>
-  <li>Empréstimo: O cuidador do recinto possui uma forma de realizar o empréstimo de 1 ou até 3 livros de forma simultanea adicionando ao formulario dedicado o email da pessoa que esta requisitando a ação, o código unico de identificação do livro e também a data que este(s) deve(em) ser devolvido(os).
+  <li>`Login`: Tanto o administrador quanto o usuario podem fazer login no sistema, usando nome e senha;</li>
+  <li>`Empréstimo`: O cuidador do recinto possui uma forma de realizar o empréstimo de 1 ou até 3 livros de forma simultanea adicionando ao formulario dedicado o email da pessoa que esta requisitando a ação, o código unico de identificação do livro e também a data que este(s) deve(em) ser devolvido(os).
   Já quanto referente a um cliente do estabelecimento, este pode realziar um empréstimo online diretamente da sua conta, selecionando o livro desejado e confirmando o empréstimo, que após realizaado o usuario vai receber um email comprovando de fato que pegou um livro da instituição.</li>
