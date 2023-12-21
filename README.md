@@ -1,24 +1,73 @@
-<h1 align="center"> A nova biblioteca </h1>
-<h1 align="center"> Descrição do projeto </h1>
- Este projeto tem como intuito realizar o controle de livros em uma biblioteca, tal como também a realização de empréstimos localmente no estabelecimento onde o responsável realiza o empréstimo, como também de forma online pelo usuário no sistema.
+<table>
+  <tr>
+    <td>
+      <a href="https://www.bootstrapdash.com/demo/corona-free/jquery/template/index.html" target="_blank"><img src="preview.jpg"></a>
+       <h3>Corona-free</h3>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center"> Funcionalidades para o administrador </h1>
-  Como um projeto feito com o objetivo de atender uma biblioteca ou acervo de livros, se detem de diversas funcionalidades como:
-  <li>`Login`: Tanto o administrador quanto o usuario podem fazer login no sistema, usando nome e senha;</li>
-  <li>`Página inicial`: Nestea página, está uma lista com todos os livros cadastrados no banco de dados, também há uma lupa para realziar a pesquisa de algum livro específico e algumas informações para gerar um feedback rápido ao administrador, como o número de livros emprestados no momento. Também existe uma aba de notificações, onde quando um livro estiver atrasado, ela ficara com uma notificação vermelha e exibirá a informação de atraso. </li>
-  <li>`Empréstimo`: O cuidador do recinto possui uma forma de realizar o empréstimo de 1 ou até 3 livros de forma simultanea adicionando ao formulario dedicado o email da pessoa que esta requisitando a ação, o código unico de identificação do livro e também a data que este(s) deve(em) ser devolvido(os).</li>
-  <li>`Cadastros`: A pessoa responsável por administrar o sistema é capaz de realizar o cadastro de livros, adicionando todas as informações necessárias sobre estes no formulario de cadastro. Também é capaz de realizar o cadastro de novos usuários da biblioteca, com as informações relevantes para a identificação e acesso do novo usuário. </li>
-  <li>`Listas`: O administrador tem acesso a duas listas, sendo elas uma de pessoas cadastradas no sistema e outra dos livros emprestados, contendo informações sobre quem emprestou, data de empréstimo e devolução e a opção de eidtar algum dado relativo ao empréstimo do livro.</li>
-  <li>`Relatórios`: Existe uma aba de relatórios onde o cuidador pode tanto escrever um relatório a mão, como também existe o relatório do sistema, onde os livros emprestados ficam salvos para facil vizualição e identificação do que foi feito.</li>
-  <li>`Backup`: A função backup, como o própio nome sugere, cria uma cópia dos dados em um banco de dados reserva, para evitar uma possivel perca de dados.</li>
-  <li>`Logout`: O usuário possui mais de um lugar onde pode encerrar sua sessão no site.</li>
+<h1>CoronaAdmin-Free-Admin-Template</h1>
+Corona Admin is a free responsive admin template built with Bootstrap 4. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
 
-<h1 aling="center"> Funcionalidades para o usuário </h1>
-  Citado anteriormente, o sistema também permite o acesso e empréstimo remoto de algum livro, para que assim o usuário apenas o pegue depois na biblioteca.
-  <li>`Login`: Tanto o administrador quanto o usuario podem fazer login no sistema, usando nome e senha.</li>
-  <li>`Empréstimo`: Referente a um cliente do estabelecimento, este pode realziar um empréstimo online diretamente da sua conta, selecionando o livro desejado e confirmando o empréstimo, que após realizado vai receber um email comprovando de fato que pegou um livro da instituição.</li>
-  <li>`Meus Livros`: Há uma aba onde o usuário é capaz de ver os livros que ele emprestou, vendo as informações do empréstimo e o status referente ao prazo de devolução.</li>
-  <li>`Logout`: O usuário possui mais de um lugar onde pode encerrar sua sessão no site.</li>
- 
-  
-  
+Corona Admin is packed with all the features that fit your needs but not cramped with components you would not even use. It is an excellent fit to build admin panels, e-commerce systems, project management systems, CMS or CRM.
+
+Although the template has a design like none other, it is easily customizable to suit your requirements. Corona Admin comes with a clean and well-commented code that makes it easy to work with the template. Thus making it an ideal pick for jump starting your project.
+
+<h1>Credits:</h1>
+
+- Bootstrap 4
+- Material Design Icons
+- jQuery
+- Gulp
+- Chart.js
+
+<h1>Browser Support:</h1>
+
+Corona Admin is designed to work flawlessly with all the latest and modern web browsers.
+
+- Chrome (latest)
+- FireFox (latest)
+- Safari (latest)
+- Opera (latest)
+- IE10+
+
+<h1>License Information:</h1>
+
+Corona Admin is released under MIT license. Corona Admin is a free Bootstrap 4 admin template developed from BootstrapDash. Feel free to download it, use it, share it, get creative with it.
+
+<h1>How to use Corona Admin?</h1>
+
+1 - Click the Clone or Download button in GitHub and download as a ZIP file or you can enter the command git clone https://github.com/BootstrapDash/corona-free-dark-bootstrap-admin-template.git in you terminal to get a copy of this template.
+
+2 - After the files have been downloaded you will get a folder with all the required files
+
+3 - You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules.
+
+4 - Find the file named index.html, check what all components you need. Open the file in a text editor and you can start editing.
+
+5 - Now that your project has now kick-started, all you need to do now is to code, code, and code to your heart's content.
+
+<h1>How to Contribute?:</h1>
+
+We love your contributions and we welcome them wholeheartedly. We believe the more the merrier.
+To contribute make sure you have a Node.js and npm installed. Now run the command gulp --version. If the command returns with the Gulp version number, it means you have Gulp installed. If not you need to run the command npm install --global gulp-cli to install Gulp.
+
+<h2>Next</h2>
+
+After Gulp has been installed, follow the steps below to contribute.
+<br>
+1 - Fork and clone the repo of Corona Admin.
+<br>
+2 - Run the command npm install to install all the dependencies.
+<br>
+3 - Enter the command gulp serve. This will open Corona Admin in your default browser.
+<br>
+4 - Make your valuable contribution
+<br>
+5 - Submit a pull request.
+
+  <hr>
+	Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
+Visit
+  <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
